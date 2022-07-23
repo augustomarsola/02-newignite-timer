@@ -1,1 +1,1 @@
-- Adicionar styled component
+- Create a styled component theme provider
